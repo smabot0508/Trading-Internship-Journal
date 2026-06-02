@@ -3,6 +3,7 @@ Date: 02-06-2026
  
 Work Start time 
 9:00am 
+
 Today’s Objective 
 - Market direction. 
 - Chart analysis. 
