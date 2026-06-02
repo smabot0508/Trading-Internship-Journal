@@ -96,7 +96,7 @@ Possible entry points, Exit zones, Reversal areas, Breakout levels.
 Support acts like a floor where price may bounce upward, while resistance acts 
 like a ceiling where price may face selling pressure. 
  
-Key Takeaways From Day 1: 
+Key Takeaways From Day 2: 
 - Learned how to identify bullish and bearish trends using chart structure. 
 - Understood the importance of volume, support, and resistance in trading. 
 - Practiced real-time chart analysis on HPE and DELL stocks. 
