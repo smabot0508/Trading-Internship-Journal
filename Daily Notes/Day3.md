@@ -10,7 +10,8 @@ Today’s Objective
 - Support / Resistance in detail. 
 - Analyze Market trends using DeepVue: The 21EMA Strategy. 
  
-#Topic 1: Candlestick Patterns: 
+#Topic 1: Candlestick Patterns:
+
 Candlestick patterns are visual representations of price action that help traders 
 understand the battle between buyers and sellers during a specific time frame. Each 
 candle shows four important values: open, close, high, and low price. Candlestick 
@@ -63,7 +64,8 @@ When multiple candles repeatedly reject the same area using their wicks, it stre
 the reliability of that support or resistance zone. 
    
  
-#Topic 2: Support and Resistance 
+#Topic 2: Support and Resistance
+
 Support and resistance are important concepts in technical analysis that represent key 
 price levels where market behavior changes. 
 - Support acts like a floor where buying pressure becomes strong enough to stop 
@@ -121,6 +123,7 @@ Momentum increases.
 This sequence often marks the beginning of a strong trending move. 
  
 Practice: 
+
 Deepvue Platform Implementation 
 The Deepvue platform was used to practically implement the 21 EMA strategy. 
 The platform helped in: 
@@ -132,7 +135,8 @@ Practical implementation helped improve understanding of trend analysis and mark
 behavior. 
  
  
-Conclusion 
+Conclusion:
+
 Day 3 of the internship mainly focused on understanding technical analysis and market 
 psychology through candlestick patterns, support and resistance, and the 21 EMA 
 strategy. 
