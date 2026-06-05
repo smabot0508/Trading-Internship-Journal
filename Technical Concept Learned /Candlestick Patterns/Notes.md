@@ -7,7 +7,7 @@ Candlestick patterns are one of the most widely used tools in technical analysis
 Candlestick patterns provide valuable insights into market sentiment, trend continuation, and potential reversals. By studying these patterns, traders can better understand price action and make more informed trading decisions.
 
 ---
-![Candlestick Patterns](Candlestick Patterns.jpeg)
+![Candlestick Patterns](Candlestick-Patterns.jpeg)
 ---
 
 ## Basic Components of a Candlestick
