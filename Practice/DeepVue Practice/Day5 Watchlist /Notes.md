@@ -6,12 +6,6 @@ To understand how the DeepVue WatchList feature helps traders organize stocks, m
 
 ---
 
-![DeepVue WatchList](WatchList.jpeg)
-
-*Figure 1: DeepVue WatchList showing Market Indexes, Leaders, Wide List, and Ready List categories.*
-
----
-
 ## Observations
 
 During today's practice session, I explored the WatchList feature available in DeepVue and learned how it helps traders stay organized while monitoring multiple stocks.
