@@ -1,5 +1,21 @@
-# Day 5 – Trading Internship Journal
+# Day 5 Internship Notes
 
+**Date:** 05-06-2026
+
+## Work Start Time
+
+9:00 AM
+
+---
+
+# Today's Objective
+
+- Moving Average.
+- Support and Resistance Breakouts.
+- Liquidity Introduction.
+- Stay Organized with DeepVue Watchlist Section. 
+  
+---
 ## Overview
 
 Today's learning focused on strengthening my understanding of trend analysis, breakout identification, market liquidity, and stock organization. I studied Moving Averages, Support and Resistance Breakouts, and Liquidity, while also exploring the WatchList feature in DeepVue. The practical session involved creating and managing watchlists to improve stock tracking and analysis efficiency.
