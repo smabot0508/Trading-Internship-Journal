@@ -13,7 +13,8 @@
 * Liquidity
 * DeepVue Bubble Chart
 * Finding Breakouts
-* Identifying Market Leaders
+* DeepVue Bubble Charts: Find Breakouts & Market Leaders FAST
+
 
 ## Introduction
 
