@@ -258,6 +258,25 @@ This approach improves efficiency and helps traders react faster to market oppor
 
 ---
 
+# Questions I Had and Answers I Got
+
+## Q1. Why is liquidity important in stock trading?
+
+Liquidity is important because it determines how easily a stock can be bought or sold without significantly affecting its market price. Highly liquid stocks have a large number of active buyers and sellers, allowing for faster order execution, tighter bid-ask spreads, and reduced slippage. Traders generally prefer liquid stocks because they lower trading costs, improve execution quality, and make entering or exiting positions more efficient.
+
+
+
+## Q2. How does the DeepVue Bubble Chart help traders identify breakout stocks?
+
+The DeepVue Bubble Chart visually displays stocks based on metrics such as price performance, relative volume, and relative strength. Stocks showing strong price movement and unusually high volume often move toward the top-right area of the chart. This allows traders to quickly identify breakout candidates, monitor stocks receiving significant market attention, and discover opportunities without manually scanning hundreds of charts.
+
+
+
+## Q3. How can traders identify potential market leaders using the Bubble Chart?
+
+Traders often use Relative Strength (RS) and Relative Measured Volatility (RMV) within the Bubble Chart to identify potential market leaders. Stocks that demonstrate strong relative strength, tight volatility, and increasing volume may indicate institutional accumulation and leadership characteristics. These stocks often outperform the broader market and can develop into future market leaders if the trend continues.
+
+---
 # Conclusion
 
 Today's session enhanced my understanding of liquidity and introduced me to an advanced stock visualization tool used by professional traders. Liquidity showed me why certain stocks are easier to trade, while the DeepVue Bubble Chart demonstrated how real-time data can be used to identify breakouts and market leaders efficiently. These concepts reinforced the importance of volume, relative strength, and market participation when evaluating trading opportunities.
