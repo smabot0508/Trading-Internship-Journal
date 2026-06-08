@@ -356,6 +356,25 @@ Repeated institutional selling can signal that a trend is losing strength.
 Many traders closely monitor these clusters because they often appear before larger market declines.
 
 ---
+# Questions I Had and Answers I Got
+
+## Q1. What is the difference between a Bid Price and an Ask Price?
+
+The Bid Price is the highest price a buyer is willing to pay for a stock, while the Ask Price is the lowest price a seller is willing to accept. The difference between these two prices is known as the spread. Every market transaction occurs when buyers and sellers agree on a price, resulting in a trade being executed.
+
+
+
+## Q2. Why is liquidity important in stock trading?
+
+Liquidity determines how easily a stock can be bought or sold without significantly affecting its market price. Highly liquid stocks generally have high trading volume, tighter bid-ask spreads, lower slippage, and faster order execution. Professional traders and institutional investors prefer liquid stocks because they allow efficient entry and exit from positions while minimizing trading costs.
+
+
+
+## Q3. How does the DeepVue Market Navigator Indicator help traders?
+
+The DeepVue Market Navigator Indicator helps traders identify objective buy and sell opportunities using technical signals based on moving averages, price action, and volume analysis. It reduces emotional decision-making by applying predefined trading rules and highlighting important market events such as moving average crossovers, accumulation days, breakout signals, distribution days, and trend changes. This allows traders to make more disciplined and consistent trading decisions.
+
+---
 
 # Practical Learning
 
