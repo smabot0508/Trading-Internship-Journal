@@ -145,13 +145,11 @@ I also observed how the indicator automatically adjusts moving average calculati
 
 A liquidity sweep occurs when price intentionally moves beyond a key support or resistance level to trigger pending orders before reversing direction. Institutions use these areas to access liquidity required for large positions.
 
----
 
 ## Q2. Why do institutions create fake breakouts?
 
 Institutions create fake breakouts to attract retail traders into the market and generate liquidity. Once enough orders are available, they execute their positions and often reverse the market direction.
 
----
 
 ## Q3. How does the DeepVue Moving Average Indicator help traders?
 
