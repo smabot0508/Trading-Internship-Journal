@@ -149,7 +149,6 @@ Internal Liquidity exists within the current market structure and is commonly fo
 
 Both types of liquidity contain pending orders that can influence price movement. Understanding these liquidity zones helps traders identify areas where price may react, reverse, or accelerate.
 
----
 
 ## Q2. Why are Previous Day High (PDH) and Previous Day Low (PDL) important?
 
@@ -157,7 +156,6 @@ The Previous Day High and Previous Day Low are important because many traders pl
 
 Traders monitor PDH and PDL because they frequently provide information about market sentiment, momentum, and potential trading opportunities.
 
----
 
 ## Q3. How does the DeepVue Heatmap help traders?
 
