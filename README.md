@@ -568,7 +568,3 @@ PHASE 5 — EXECUTION & MODELS
 ```
 
 ---
-
-*Notes maintained as part of Trading Internship Journey. Last updated: 2026.*
-
-> "The market is not random. It is engineered. Your job is to read the engineering."
