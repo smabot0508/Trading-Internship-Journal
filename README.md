@@ -60,7 +60,7 @@ This happens on:
 
 ---
 
-## Phase 1 — Foundations
+### Phase 1 — Foundations
 
 > Build your eyes first. You cannot read SMC without these basics.
 
