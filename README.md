@@ -60,13 +60,13 @@ This happens on:
 
 ---
 
-### Phase 1 — Foundations
+## Phase 1 — Foundations
 
 > Build your eyes first. You cannot read SMC without these basics.
 
 ---
 
-# 1. Candlestick Reading
+### 1. Candlestick Reading
 
 **What to know:**
 - Body = difference between open and close
