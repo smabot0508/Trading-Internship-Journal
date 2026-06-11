@@ -66,7 +66,7 @@ This happens on:
 
 ---
 
-### 1. Candlestick Reading
+# 1. Candlestick Reading
 
 **What to know:**
 - Body = difference between open and close
