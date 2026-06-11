@@ -127,11 +127,8 @@ The Richard's Screener uses strict filters such as liquidity, relative strength,
 * Market Structure is the foundation of Smart Money Concepts.
 * Higher Highs and Higher Lows indicate uptrends.
 * Lower Highs and Lower Lows indicate downtrends.
-* BOS confirms trend continuation.
-* CHoCH can signal potential trend reversals.
 * The Richard's Screener helps identify strong liquid stocks efficiently.
 * Institutional participation is often associated with highly liquid market leaders.
-* CAN SLIM-based filtering improves stock selection quality.
 
 ---
 
