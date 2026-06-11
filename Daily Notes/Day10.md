@@ -13,8 +13,6 @@
 * Liquidity Practice on Real Charts
 * Introduction to Smart Money Concepts (SMC)
 * Market Structure
-* Break of Structure (BOS)
-* Change of Character (CHoCH)
 * DeepVue Richard's Screener (Liquid Leaders Screener)
 
 ---
@@ -103,21 +101,21 @@ This practice demonstrated how professional traders use stock screeners to effic
 
 ---
 
-# Questions I Had and Answers I Got
+# Questions I Had and Answers I Got# Questions I Had and Answers I Got
 
-## Q1. What is the difference between a Break of Structure (BOS) and a Change of Character (CHoCH)?
+## Q1. Why is Market Structure important in trading?
 
-A Break of Structure (BOS) confirms the continuation of an existing trend by breaking a significant swing high or swing low. A Change of Character (CHoCH) suggests that market control may be shifting and often serves as an early indication of a potential trend reversal.
-
-
-## Q2. Why is Market Structure important in Smart Money Concepts?
-
-Market Structure is important because it provides the foundation for all Smart Money Concepts. By identifying Higher Highs, Higher Lows, Lower Highs, and Lower Lows, traders can determine the current trend direction and better understand future market behavior.
+Market Structure is important because it helps traders understand the current direction of the market. By identifying Higher Highs (HH), Higher Lows (HL), Lower Highs (LH), and Lower Lows (LL), traders can determine whether a stock is in an uptrend, downtrend, or consolidation phase. Understanding market structure helps traders avoid trading against the trend and provides a foundation for more advanced concepts such as Smart Money Concepts (SMC).
 
 
-## Q3. How does the Richard's Screener help traders find stocks before they explode?
+## Q2. What is the relationship between Liquidity and Smart Money Concepts (SMC)?
 
-The Richard's Screener uses strict filters such as liquidity, relative strength, and minimum price requirements to identify strong market leaders. These filters help traders focus on stocks that are attracting institutional participation and demonstrating strong momentum before major price movements occur.
+Liquidity is one of the core components of Smart Money Concepts because it represents areas where large numbers of pending orders and stop-losses exist. SMC focuses on understanding how price interacts with these liquidity zones and how market participants react around important levels. Before learning advanced SMC concepts such as Fair Value Gaps (FVGs) and Order Blocks, it is essential to understand how liquidity influences market movement and price behavior.
+
+
+## Q3. How does the DeepVue Richard's Screener help traders find potential market leaders?
+
+The DeepVue Richard's Screener, also known as the Liquid Leaders Screener, helps traders identify strong stocks before major price moves occur. It uses strict filters such as high liquidity, strong relative strength, and minimum price requirements to narrow thousands of stocks into a focused list of high-quality candidates. This allows traders to quickly identify stocks attracting institutional participation and concentrate on potential breakout opportunities, pullbacks to key moving averages, and emerging market leaders.
 
 ---
 
