@@ -1,148 +1,117 @@
-# Market Structure
+# Anchored Volume Weighted Average Price (AVWAP)
 
 ## Introduction
 
-Market Structure is the foundation of Smart Money Concepts (SMC) and price action trading. It helps traders understand how the market moves, identify the current trend, and determine whether buyers or sellers are controlling the market.
+Anchored Volume Weighted Average Price (AVWAP) is a technical indicator that calculates the average price of a stock from a specific starting point while taking trading volume into account.
 
-Price never moves in a straight line. Instead, it moves through a series of impulse moves and correction phases that create recognizable patterns on a chart.
+Unlike a traditional VWAP that resets daily, AVWAP allows traders to choose a custom anchor date. This helps traders understand whether buyers or sellers are controlling the stock from an important event or price level.
 
-Understanding market structure allows traders to align themselves with the dominant trend and avoid trading against market momentum.
-
----
-
-## Types of Market Structure
-
-### Uptrend
-
-An uptrend occurs when price continuously creates:
-
-- Higher Highs (HH)
-- Higher Lows (HL)
-
-This indicates strong buying pressure and increasing demand.
-
-Example:
-
-HH → HL → HH → HL
-
-As long as higher highs and higher lows continue forming, buyers remain in control.
+AVWAP is often described as a "line in the sand" because it clearly shows who has control of the market.
 
 ---
 
-### Downtrend
+## How AVWAP Works
 
-A downtrend occurs when price continuously creates:
+The AVWAP calculates the average traded price from a selected starting point using both:
 
-- Lower Highs (LH)
-- Lower Lows (LL)
+- Price
+- Volume
 
-This indicates strong selling pressure and increasing supply.
-
-Example:
-
-LH → LL → LH → LL
-
-As long as lower highs and lower lows continue forming, sellers remain in control.
+Because volume is included in the calculation, periods with high trading activity have a greater influence on the AVWAP line.
 
 ---
 
-### Consolidation
+## Market Control
 
-When neither buyers nor sellers have clear control, price moves sideways within a range.
+### Price Above AVWAP
 
-Characteristics:
+When price remains above the AVWAP:
 
-- No clear trend.
-- Repeated support and resistance reactions.
-- Lower volatility.
-- Often precedes a breakout.
-
----
-
-## Impulse and Correction
-
-### Impulse Move
-
-An impulse move is the strong movement in the direction of the trend.
-
-Examples:
-
-- In an uptrend, impulse moves create Higher Highs.
-- In a downtrend, impulse moves create Lower Lows.
-
-These moves show aggressive participation from the dominant side.
+- Buyers are generally in control.
+- Market sentiment is bullish.
+- Pullbacks often find support near AVWAP.
 
 ---
 
-### Correction Move
+### Price Below AVWAP
 
-A correction is a temporary retracement against the trend.
+When price remains below the AVWAP:
 
-Examples:
-
-- In an uptrend, price temporarily moves downward.
-- In a downtrend, price temporarily moves upward.
-
-Corrections allow the market to reset before potentially continuing the trend.
+- Sellers are generally in control.
+- Market sentiment is bearish.
+- AVWAP may act as resistance.
 
 ---
 
-## Multi-Timeframe Analysis
+## Why Traders Use AVWAP
 
-Market structure should always be analyzed across multiple timeframes.
+AVWAP helps traders:
 
-### Higher Timeframes
-
-Examples:
-
-- Daily Chart
-- 4-Hour Chart
-
-Purpose:
-
-- Identify major trend direction.
-- Determine overall market structure.
-
-### Lower Timeframes
-
-Examples:
-
-- 1-Hour Chart
-- 15-Minute Chart
-- 5-Minute Chart
-
-Purpose:
-
-- Identify corrections.
-- Find precise entries.
-- Improve risk management.
-
-Using multiple timeframes helps traders avoid misinterpreting normal corrections as complete trend reversals.
+- Identify support and resistance.
+- Measure institutional positioning.
+- Determine trend strength.
+- Manage risk more effectively.
+- Find high-probability entry points.
 
 ---
 
-## Trading Applications
+## Common AVWAP Anchor Points
 
-Market structure helps traders:
+### 1. Top of a Base
 
-- Identify trend direction.
-- Recognize corrections.
-- Improve trade timing.
-- Find high-probability setups.
-- Align trades with overall market momentum.
+Anchoring AVWAP at a major breakdown point helps identify resistance.
+
+When price later breaks above the AVWAP and successfully retests it, buyers may be regaining control.
+
+---
+
+### 2. Bottom of a Base
+
+Anchoring AVWAP at a major reversal low helps identify support.
+
+Traders often look for undercut-and-reclaim setups near this level.
+
+---
+
+### 3. Earnings Gap Days
+
+Major earnings gaps often create important institutional positioning.
+
+AVWAP anchored to earnings days frequently acts as strong support or resistance.
+
+---
+
+### 4. Intraday Breakouts
+
+For shorter-term trading, AVWAP can be anchored to the opening breakout bar.
+
+Strong stocks often remain above the AVWAP throughout the trading session.
+
+---
+
+## Practical Importance
+
+AVWAP is most effective when combined with:
+
+- Market Structure
+- Moving Averages
+- Support and Resistance
+- Volume Analysis
+
+Rather than using AVWAP alone, traders use it as an additional layer of confirmation.
 
 ---
 
 ## Key Takeaways
 
-- Market Structure is the foundation of SMC.
-- Uptrends create Higher Highs and Higher Lows.
-- Downtrends create Lower Highs and Lower Lows.
-- Impulse and Correction phases form every trend.
-- Multi-timeframe analysis improves market understanding.
+- AVWAP uses both price and volume.
+- Traders select a custom anchor point.
+- Price above AVWAP indicates buyer control.
+- Price below AVWAP indicates seller control.
+- AVWAP helps identify support and resistance.
 
 ---
 
 ## Conclusion
 
-Market Structure provides a framework for understanding how price moves within financial markets. By identifying trends, corrections, and structural shifts, traders can make better decisions and build a strong foundation for advanced Smart Money Concepts.
+AVWAP is a powerful tool that helps traders understand who controls the market from a specific point in time. By combining volume and price into a single indicator, AVWAP provides valuable insights into trend direction, institutional activity, and potential trading opportunities.
