@@ -2,83 +2,147 @@
 
 ## Introduction
 
-Market Structure is one of the most fundamental concepts in technical analysis and Smart Money Concepts (SMC). It helps traders understand the current direction of the market by analyzing the sequence of highs and lows formed by price action.
+Market Structure is the foundation of Smart Money Concepts (SMC) and price action trading. It helps traders understand how the market moves, identify the current trend, and determine whether buyers or sellers are controlling the market.
 
-Understanding market structure allows traders to identify trends, anticipate potential reversals, and make trading decisions that align with the prevailing market direction.
+Price never moves in a straight line. Instead, it moves through a series of impulse moves and correction phases that create recognizable patterns on a chart.
+
+Understanding market structure allows traders to align themselves with the dominant trend and avoid trading against market momentum.
 
 ---
 
-## Uptrend Structure
+## Types of Market Structure
+
+### Uptrend
 
 An uptrend occurs when price continuously creates:
 
-* Higher Highs (HH)
-* Higher Lows (HL)
+- Higher Highs (HH)
+- Higher Lows (HL)
 
-This indicates that buyers are in control and are willing to purchase at increasingly higher prices.
+This indicates strong buying pressure and increasing demand.
 
 Example:
 
-```text
 HH → HL → HH → HL
-```
 
-The market continues to move upward as demand remains stronger than supply.
+As long as higher highs and higher lows continue forming, buyers remain in control.
 
 ---
 
-## Downtrend Structure
+### Downtrend
 
 A downtrend occurs when price continuously creates:
 
-* Lower Highs (LH)
-* Lower Lows (LL)
+- Lower Highs (LH)
+- Lower Lows (LL)
 
-This indicates that sellers are in control and are willing to sell at progressively lower prices.
+This indicates strong selling pressure and increasing supply.
 
 Example:
 
-```text
 LH → LL → LH → LL
-```
 
-The market continues moving downward as supply exceeds demand.
-
----
-
-## Consolidation or Range
-
-When the market is unable to establish higher highs or lower lows, price often moves sideways within a range.
-
-During consolidation:
-
-* Buyers and sellers are relatively balanced.
-* Trend direction is unclear.
-* Breakouts often determine the next major move.
+As long as lower highs and lower lows continue forming, sellers remain in control.
 
 ---
 
-## Why Market Structure Matters
+### Consolidation
 
-Market Structure helps traders:
+When neither buyers nor sellers have clear control, price moves sideways within a range.
 
-* Identify trend direction.
-* Avoid trading against the trend.
-* Recognize potential reversals.
-* Improve trade timing.
-* Build the foundation for Smart Money Concepts.
+Characteristics:
+
+- No clear trend.
+- Repeated support and resistance reactions.
+- Lower volatility.
+- Often precedes a breakout.
+
+---
+
+## Impulse and Correction
+
+### Impulse Move
+
+An impulse move is the strong movement in the direction of the trend.
+
+Examples:
+
+- In an uptrend, impulse moves create Higher Highs.
+- In a downtrend, impulse moves create Lower Lows.
+
+These moves show aggressive participation from the dominant side.
+
+---
+
+### Correction Move
+
+A correction is a temporary retracement against the trend.
+
+Examples:
+
+- In an uptrend, price temporarily moves downward.
+- In a downtrend, price temporarily moves upward.
+
+Corrections allow the market to reset before potentially continuing the trend.
+
+---
+
+## Multi-Timeframe Analysis
+
+Market structure should always be analyzed across multiple timeframes.
+
+### Higher Timeframes
+
+Examples:
+
+- Daily Chart
+- 4-Hour Chart
+
+Purpose:
+
+- Identify major trend direction.
+- Determine overall market structure.
+
+### Lower Timeframes
+
+Examples:
+
+- 1-Hour Chart
+- 15-Minute Chart
+- 5-Minute Chart
+
+Purpose:
+
+- Identify corrections.
+- Find precise entries.
+- Improve risk management.
+
+Using multiple timeframes helps traders avoid misinterpreting normal corrections as complete trend reversals.
+
+---
+
+## Trading Applications
+
+Market structure helps traders:
+
+- Identify trend direction.
+- Recognize corrections.
+- Improve trade timing.
+- Find high-probability setups.
+- Align trades with overall market momentum.
 
 ---
 
 ## Key Takeaways
 
-* Higher Highs and Higher Lows indicate an uptrend.
-* Lower Highs and Lower Lows indicate a downtrend.
-* Sideways movement indicates consolidation.
-* Market Structure forms the foundation of SMC analysis.
+- Market Structure is the foundation of SMC.
+- Uptrends create Higher Highs and Higher Lows.
+- Downtrends create Lower Highs and Lower Lows.
+- Impulse and Correction phases form every trend.
+- Multi-timeframe analysis improves market understanding.
 
 ---
 
 ## Conclusion
 
-Market Structure provides a framework for understanding how price moves within financial markets. By identifying trends and structural changes, traders can make more informed decisions and improve their overall market analysis.
+Market Structure provides a framework for understanding how price moves within financial markets. By identifying trends, corrections, and structural shifts, traders can make better decisions and build a strong foundation for advanced Smart Money Concepts.
