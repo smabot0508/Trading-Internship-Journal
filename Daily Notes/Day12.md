@@ -1,6 +1,6 @@
 # Day 12 Internship Notes
  
-**Date:** 16-06-2026
+**Date:** 13-06-2026
  
 ## Work Start Time
  
@@ -125,10 +125,9 @@ Multi-Timeframe Analysis allows traders to maintain the bigger picture while ana
 - ChoCh (Change of Character) on the lower timeframe is the trigger for execution in MTF trading.
 - The 3 Weeks Tight pattern signals institutional accumulation through price contraction on weekly charts.
 - Contraction leads to expansion — the tighter the consolidation, the more explosive the breakout potential.
-- PEB demonstrated a textbook 3 Weeks Tight breakout with strong volume confirmation (+7.64% on breakout week).
 - Screening for 3 Weeks Tight setups works best with a $20M+ dollar volume filter and price above the 10-week moving average.
 ---
  
 # Conclusion
  
-Day 12 focused on deepening my understanding of how price moves across timeframes and how institutions interact with that movement. The fractal nature of the market and Multi-Timeframe Analysis together form a powerful framework for entering trades at exactly the right moment — at the origin of the move rather than after a delayed confirmation. On the DeepVue side, I studied the 3 Weeks Tight pattern and practiced identifying it on PEB's weekly chart, which showed a clear textbook breakout following a tight consolidation phase. The combination of today's SMC theory and practical chart work is helping me build a more structured and confident approach to reading price action and identifying institutional setups.
+Day 12 focused on deepening my understanding of how price moves across timeframes and how institutions interact with that movement. The fractal nature of the market and MultiTimeframe Analysis together form a powerful framework for entering trades at exactly the right moment at the origin of the move rather than after a delayed confirmation. On the DeepVue side, I studied the 3 Weeks Tight pattern and practiced identifying it on PEB's weekly chart, which showed a clear textbook breakout following a tight consolidation phase. The combination of today's SMC theory and practical chart work is helping me build a more structured and confident approach to reading price action and identifying institutional setups.
