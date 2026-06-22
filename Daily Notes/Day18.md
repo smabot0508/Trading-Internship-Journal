@@ -144,7 +144,7 @@ Once an area of extreme buying pressure is located, the strategy is to wait for 
 ---
  
 # Questions I Had and Answers I Got
- 
+
 ## Q1. How sharp does a move need to be to count as a valid supply or demand zone?
 The source material emphasizes that the move must be drastic and sharp — not gradual. A slow, grinding move only reflects a minor, temporary imbalance, which doesn't create a zone strong enough for institutions to have left a meaningful footprint. There's no exact numerical threshold given, but the visual cue is a fast, aggressive candle or sequence of candles that clearly breaks away from the recent price action — similar to the kind of move that creates a Fair Value Gap, covered on Day 17. If the move looks unremarkable compared to surrounding price action, it likely isn't strong enough to mark as a valid zone.
  
