@@ -146,23 +146,18 @@ Once an area of extreme buying pressure is located, the strategy is to wait for 
 # Questions I Had and Answers I Got
  
 ## Q1. How sharp does a move need to be to count as a valid supply or demand zone?
- 
 The source material emphasizes that the move must be drastic and sharp — not gradual. A slow, grinding move only reflects a minor, temporary imbalance, which doesn't create a zone strong enough for institutions to have left a meaningful footprint. There's no exact numerical threshold given, but the visual cue is a fast, aggressive candle or sequence of candles that clearly breaks away from the recent price action — similar to the kind of move that creates a Fair Value Gap, covered on Day 17. If the move looks unremarkable compared to surrounding price action, it likely isn't strong enough to mark as a valid zone.
  
 ## Q2. Why do retail traders keep buying into momentum even when it leads them into a supply zone?
- 
 Based on the retail psychology concepts learned today, this happens because retail traders react to surface-level signals rather than the underlying mechanics of supply and demand. Momentum is visually obvious and feels intuitive to follow — a chart moving up "looks" bullish. However, this surface-level read ignores the deeper question of whether buyers actually still outnumber sellers at the current price, or whether price is approaching a zone where sellers have historically taken control. Because momentum traders aren't asking "where are the bad traders buying and selling," they end up becoming the bad trader themselves — buying right into an area of supply.
  
 ## Q3. How is Market Momentum different from a genuine trend reversal?
- 
 Market momentum reflects the ongoing battle between buyers and sellers, and it can include temporary pullbacks without an actual reversal — for example, minor buying pressure during a downtrend. A genuine reversal only happens when a large majority of one side completely overtakes the other, producing a fast, sharp move. The key distinction is the size and speed of the shift: minor, slow shifts are just noise within the existing trend, while a true reversal is the kind of drastic move that creates an actual supply or demand zone.
  
 ## Q4. Why is it important to think about "who" is on the other side of my trade, rather than just the price levels?
- 
 Focusing purely on price levels treats trading as a mechanical exercise, but the supply and demand framework is built on the idea that markets move because of real participants making decisions — some of whom make consistent mistakes. By identifying where retail traders are likely to be trapped (buying into supply, selling into demand), you're not just finding a price level — you're finding the exact point where a losing trade is about to be opened by someone else. Their eventual capitulation often becomes part of the liquidity that fuels your trade's move, connecting directly to the liquidity concepts learned earlier in the internship.
  
 ## Q5. Should I always wait for price to return slowly to a zone, or can a fast return still be tradeable?
- 
 The source specifically describes waiting for price to "slowly return" to the area of demand before executing the trade. A slow return suggests a controlled retracement where the market is giving you time to confirm the zone is being respected, rather than violently slamming through it. A very fast, aggressive return to the zone could be a sign of strong momentum continuing in the original direction, which might blow through the zone entirely rather than respect it.
  
 ---
