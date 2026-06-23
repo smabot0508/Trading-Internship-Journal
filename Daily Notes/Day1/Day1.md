@@ -68,8 +68,6 @@ Today I also understood the day-to-day structure of the internship — what is e
 - **Maintain Daily GitHub Documentation:** Writing structured notes (like this one) every day to track what was learned, questions raised, and conclusions reached — this Day 1 to Day 19+ journal is the direct result of that habit.
 - **Participate in Morning and Evening Standup Calls:** Short check-in meetings to report progress, raise questions, and stay aligned with the mentor's expectations.
 
-> 🖼️ **[Add Image Here]** — A simple workflow diagram (Morning Standup → Market Hours Monitoring → DeepVue Learning → GitHub Documentation → Evening Standup) would visually summarize this daily cycle well. Suggested file: `images/day1/daily-workflow.png`
-
 ---
 
 ## 3. Introduction to TradingView
@@ -90,8 +88,6 @@ TradingView is the primary charting platform I'll be using throughout the intern
 
 These two were chosen specifically because they are highly liquid, highly volatile growth stocks — meaning they tend to show clear, dramatic price movements, which makes them excellent practice stocks for a beginner learning to read charts.
 
-> 🖼️ **[Add Image Here]** — A screenshot of the actual TradingView chart for TSLA or NVDA from today's session would be the most valuable addition here, since it directly documents what was observed. Suggested file: `images/day1/tsla-nvda-chart-day1.png`
-
 ---
 
 ## 4. Basic Understanding of Candlestick Charts
@@ -111,15 +107,13 @@ Each candlestick represents price movement over a chosen time period (a minute, 
 
 The thick, rectangular part of the candle is called the **body**, and it represents the distance between the open and close price. The thin lines extending above and below the body are called **wicks** (or shadows), and they represent the high and low — i.e., how far price moved beyond the open/close before settling back.
 
-> 🖼️ **[Add Image Here]** — This is the single most important image to add to this section: a labeled diagram showing a candlestick with arrows pointing to Open, Close, High, Low, Body, and Wick. Suggested file: `images/day1/candlestick-anatomy.png`
+<p align="center"><img src="Images/Candlestick Anatomy.jpeg" width="700"></p>
 
 ### Green vs. Red Candles
 
 - **Green Candle (Bullish):** The close price is *higher* than the open price. This means buyers were in control during that time period — demand outweighed supply, pushing the price up by the end of the period.
 - **Red Candle (Bearish):** The close price is *lower* than the open price. This means sellers were in control — supply outweighed demand, pushing the price down by the end of the period.
-
-> 💡 **Why this matters beyond just color:** A single candle's color tells you who "won" that specific time period, but it says nothing on its own about the broader trend. A red candle inside an overall uptrend might just be a healthy pullback, not a reversal. This distinction — single candle vs. overall structure — becomes a major theme in later days of this internship (see Day 13's Break of Structure notes).
-
+- **Why this matters beyond just color:** A single candle's color tells you who "won" that specific time period, but it says nothing on its own about the broader trend. A red candle inside an overall uptrend might just be a healthy pullback, not a reversal. This distinction — single candle vs. overall structure 
 ---
 
 ## 5. Market Observation
