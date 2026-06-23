@@ -32,7 +32,7 @@ A stock exchange is essentially a regulated marketplace — physical or digital 
 - **NYSE (New York Stock Exchange):** The oldest and largest stock exchange in the US by market value. It uses a hybrid model — partly electronic, partly involving human "designated market makers" on the physical trading floor in New York. Companies like Coca-Cola, JPMorgan, and Disney are listed here.
 - **NASDAQ (National Association of Securities Dealers Automated Quotations):** A fully electronic exchange, historically associated with technology companies (Apple, Microsoft, NVIDIA, Tesla). There's no physical trading floor in the traditional sense — everything happens through computer networks.
 
-<p align="center"><img src="Images/nasdaq-vs-nyse.jpeg" width="700"></p>
+<p align="center"><img src="Images/NASDAQ vs NYSE.jpeg" width="700"></p>
 
 ### What Actually Moves a Stock's Price?
 
