@@ -33,7 +33,7 @@ A stock exchange is essentially a regulated marketplace — physical or digital 
 - **NASDAQ (National Association of Securities Dealers Automated Quotations):** A fully electronic exchange, historically associated with technology companies (Apple, Microsoft, NVIDIA, Tesla). There's no physical trading floor in the traditional sense — everything happens through computer networks.
 
 ---
-![NASDAQ vs NYSE](Daily Notes/Day1/Images/NASDAQ vs NYSE.jpeg)
+> ![NASDAQ vs NYSE](Images/NASDAQ vs NYSE.jpeg)
 ---
 > ![TradingView Dashboard](Images/tradingview-dashboard.png)
 
