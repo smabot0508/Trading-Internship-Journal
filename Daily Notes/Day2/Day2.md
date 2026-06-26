@@ -44,7 +44,7 @@ Today I moved from pure theory into actually using the DeepVue platform — the 
 - **Bearish cycle:** A phase where price is generally trending downward, sellers are in control, and new lows are being made more often than new highs.
 **Why this matters for timing decisions:** Buying aggressively during a bearish cycle is statistically a much lower-probability trade than buying during a bullish cycle, even if the individual stock "looks cheap." The Market Cycle Indicator's real purpose is to stop me from fighting the broader trend — it answers the question "should I even be looking for buy setups right now, or is the market telling me to be cautious?"
  
-> 🖼️ **[Add Image Here — MARKET CYCLE INDICATOR]** — A screenshot of the DeepVue Market Cycle Indicator showing the current phase reading from today's session. Suggested file: `images/day2/market-cycle-indicator.png`
+<p align="center"><img src="Images/Leading Themes.jpeg" width="700"></p>
  
 ---
  
