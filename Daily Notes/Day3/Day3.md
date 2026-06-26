@@ -21,7 +21,8 @@ Candlestick patterns are visual representations of price action that help trader
  
 As a quick refresher tying back to Day 1: **green candles generally indicate buyer strength** (close finished higher than open), while **red candles represent seller dominance** (close finished lower than open). **Large candles indicate strong momentum** — a big, decisive move in one direction — whereas **long wicks show rejection** of a particular price level, meaning price tried to go further but was pushed back.
  
-> 🖼️ **[Add Image Here — ALL CANDLESTICK PATTERNS]** — A single reference sheet/grid image showing all the patterns covered today (Hammer, Bullish Engulfing, Tweezer Bottom, Dragonfly Doji, Shooting Star, Bearish Engulfing, Tweezer Top, Momentum Candle, Marubozu) side by side, so the reader can compare shapes at a glance before reading the detailed breakdown below. Suggested file: `images/day3/all-candlestick-patterns.png`
+> <p align="center"><img src="Images/" width="700"></p>
+> <p align="center"><img src="Images/" width="700"></p>
  
 ## Bullish Reversal Patterns
  
