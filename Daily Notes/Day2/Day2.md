@@ -32,7 +32,7 @@ Today I moved from pure theory into actually using the DeepVue platform — the 
 - **Understanding market momentum** — momentum here means the speed and strength of a price move. A theme with strong momentum is one where most of its stocks are making new highs together, not just one outlier stock.
 - **Tracking strong-performing industries** — keeping a running mental (and written) list of which industries are currently "in favor" with the market, since this changes over weeks and months.
 - **Identifying trending opportunities** — once a strong theme is found, the next step is finding the specific stock(s) within it showing the cleanest chart setup.
-> 🖼️ **[Add Image Here — LEADING THEMES]** — A screenshot of the actual DeepVue "Leading Themes" screener interface, showing the ranked list of sectors/themes from today's session. Suggested file: `images/day2/leading-themes-deepvue.png`
+> <p align="center"><img src="Images/Leading Themes.jpeg" width="700"></p>
  
 ### b) Market Cycle Indicator
  
