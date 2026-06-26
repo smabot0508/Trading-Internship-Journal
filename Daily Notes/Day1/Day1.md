@@ -125,7 +125,8 @@ Beyond the theory, I spent time simply watching the live market and noted a few 
 - **US market stocks are highly active during opening hours.** The first 30–60 minutes after the market opens (9:30 AM ET for NYSE/NASDAQ) typically see the highest volume and the sharpest price swings of the entire day.
 - **Technology stocks like NVIDIA and Tesla show strong volatility.** Both stocks are known for large day-to-day percentage swings compared to more stable, established companies (like utility or consumer staples stocks).
 - **Volume increases significantly during market opening.** Volume refers to the number of shares traded in a given period — higher volume at the open reflects the fact that overnight news, pre-market activity, and pending orders all get executed simultaneously once trading officially begins.
-
+<p align="center"><img src="Images/.jpeg" width="700"></p>
+<p align="center"><img src="Images/.jpeg" width="700"></p>
 ---
 
 # Videos/Resources Followed
