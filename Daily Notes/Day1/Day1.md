@@ -52,8 +52,9 @@ This was the core question of the day. A stock's price is **not set by any singl
 | **Regular Market Hours** | The main trading session where the vast majority of daily volume happens. |
 | **After-Hours Session** | Trading that continues after the official close, often reacting to news or earnings released right after the bell. |
 
-- Pre-market and after-hours sessions generally have **lower liquidity** (fewer participants), which means prices can swing more sharply on relatively small trades — something I'll need to keep in mind as I get further into the internship.
-- Market news drives significant price volatility in pre-market and after-hours sessions because these extended trading periods have lower liquidity and fewer participants than regular trading hours.  When companies release earnings, economic data, or geopolitical events occur outside standard 9:30 a.m.–4 p.m. ET hours, investors react immediately, causing exaggerated price swings and wider bid-ask spreads.
+- Pre-market and after-hours sessions generally have **lower liquidity** (fewer participants), which means prices can swing more sharply on relatively small trades something I'll need to keep in mind as I get further into the internship.
+  
+- **Market News Manipulations:** Market news drives significant price volatility in pre-market and after-hours sessions because these extended trading periods have lower liquidity and fewer participants than regular trading hours.  When companies release earnings, economic data, or geopolitical events occur outside standard 9:30 a.m.–4 p.m. ET hours, investors react immediately, causing exaggerated price swings and wider bid-ask spreads.
 
 ---
 
