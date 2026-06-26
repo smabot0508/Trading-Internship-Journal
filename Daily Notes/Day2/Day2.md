@@ -80,7 +80,7 @@ After the DeepVue tutorials, I applied the concepts directly to two real, curren
  
 - **Trend, Support, Resistance, and Volume Analysis** — same four-part process as HPE, applied consistently so that any stock can be assessed using the same repeatable method.
 - **Moving Average Observation** — this was the one additional concept introduced specifically during the DELL analysis. A moving average smooths out short-term price noise by averaging price over a set number of past periods (e.g., the last 20 days), making the underlying trend direction easier to see at a glance. If price is consistently staying above its moving average, that's generally read as a sign of underlying strength.
-<p align="center"><img src="Images/DELL.jpeg" width="700"></p>
+<p align="center"><img src="Images/Dell.jpeg" width="700"></p>
 
  
 ---
