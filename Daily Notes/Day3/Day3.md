@@ -21,8 +21,8 @@ Candlestick patterns are visual representations of price action that help trader
  
 As a quick refresher tying back to Day 1: **green candles generally indicate buyer strength** (close finished higher than open), while **red candles represent seller dominance** (close finished lower than open). **Large candles indicate strong momentum** — a big, decisive move in one direction — whereas **long wicks show rejection** of a particular price level, meaning price tried to go further but was pushed back.
  
-> <p align="center"><img src="Images/Candlestick Patterns cheat sheet" width="700"></p>
-> <p align="center"><img src="Images/All candlestick patterns" width="700"></p>
+> <p align="center"><img src="Images/Candlestick Patterns cheat sheet.jpeg" width="700"></p>
+> <p align="center"><img src="Images/All candlestick patterns.jpg" width="700"></p>
  
 ## Bullish Reversal Patterns
  
@@ -40,8 +40,6 @@ This pattern consists of a red candle followed by a green candle, where both can
 **Dragonfly Doji**
 This pattern has a long lower wick with the opening and closing prices landing near the same level (hence "Doji" — meaning indecision). It represents a clear rejection of lower prices within that single candle — sellers tried to push price down, but by the close, buyers had pulled it almost all the way back to where it opened, showing underlying buyer strength.
  
-> 🖼️ **[Add Image Here — BULLISH REVERSAL PATTERNS]** — A focused image showing the four bullish patterns above, ideally pulled from a real chart example or a clean labeled diagram. Suggested file: `images/day3/bullish-reversal-patterns.png`
- 
 ## Bearish Reversal Patterns
  
 Bearish reversal patterns indicate that sellers are taking control and the market may move downward after a period of advance.
@@ -54,8 +52,6 @@ This pattern occurs when a large red candle completely engulfs the body of the p
  
 **Tweezer Top**
 A green candle followed by a red candle, where both candles have matching upper wicks (both touched roughly the same high before reversing). This indicates strong resistance at that level and a clear rejection of higher prices, repeated twice in a row.
- 
-> 🖼️ **[Add Image Here — BEARISH REVERSAL PATTERNS]** — A focused image showing the three bearish patterns above. Suggested file: `images/day3/bearish-reversal-patterns.png`
  
 ## Momentum and Continuation Patterns
  
@@ -70,8 +66,7 @@ A Marubozu candle has a large body with **no wicks at all** (or barely visible o
 **Multiple Candle Confirmation**
 When multiple separate candles repeatedly reject the same price area using their wicks (touching that level but failing to close beyond it, again and again), it strengthens the reliability of that support or resistance zone. Essentially, this is "voting" — the more times price tests a level and fails to break it, the more confidently that level can be trusted going forward.
  
-> 🖼️ **[Add Image Here — MOMENTUM AND CONTINUATION PATTERNS]** — An image showing a Momentum candle next to a Marubozu candle, plus an example of multiple wick rejections at the same level on a real chart. Suggested file: `images/day3/momentum-continuation-patterns.png`
- 
+
 ---
  
 # Topic 2: Support and Resistance
@@ -89,9 +84,9 @@ One of the most important concepts learned today was the **Role Reversal Princip
 - **Broken support often becomes new resistance.**
 - **Broken resistance often becomes new support.**
 **Why this actually happens (the psychology behind it):** Imagine a group of traders bought a stock at a support level, expecting it to bounce. If price instead breaks *below* that support, those traders are now sitting on a loss. When price later rallies back up toward that old support level, many of those trapped traders will sell — not because they're confident the price will fall again, but simply to "get out even" and recover their original entry price. This wave of selling from previously trapped buyers is exactly what turns old support into new resistance. The same logic works in reverse for broken resistance becoming new support.
- 
-> 🖼️ **[Add Image Here — SUPPORT AND RESISTANCE]** — A chart example showing a level that was first respected as support, broken downward, and then rejected as resistance on a later retest (the classic Role Reversal visual). Suggested file: `images/day3/support-resistance-role-reversal.png`
- 
+
+<p align="center"><img src="Images/Support Resistance.png" width="700"></p>
+
 ## Drawing Support and Resistance
  
 Support and resistance should be treated as **zones, not exact lines** — price rarely respects a level down to the exact cent, so drawing a thin band around a level (rather than one precise horizontal line) gives a more realistic picture.
@@ -141,7 +136,7 @@ The DeepVue platform was used to practically implement the 21 EMA strategy on a 
  
 Below is the actual chart I used to practice this strategy, applied to **NVIDIA (NVDA)** on the Daily timeframe inside DeepVue.
  
-> 🖼️ **[Add Image Here — 21EMA IMAGE PROVIDED]** — This is your own DeepVue screenshot of NVDA with the 21 EMA plotted (the one you've already provided). Suggested file: `images/day3/nvda-21ema-practice.png`
+<p align="center"><img src="Images/nvda-21ema-practice.jpeg" width="700"></p>
  
 **Reading the chart in the screenshot, applying today's framework:**
  
