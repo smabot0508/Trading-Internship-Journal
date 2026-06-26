@@ -32,7 +32,7 @@ Today I moved from pure theory into actually using the DeepVue platform — the 
 - **Understanding market momentum** — momentum here means the speed and strength of a price move. A theme with strong momentum is one where most of its stocks are making new highs together, not just one outlier stock.
 - **Tracking strong-performing industries** — keeping a running mental (and written) list of which industries are currently "in favor" with the market, since this changes over weeks and months.
 - **Identifying trending opportunities** — once a strong theme is found, the next step is finding the specific stock(s) within it showing the cleanest chart setup.
-> <p align="center"><img src="Images/Leading Themes.jpeg" width="700"></p>
+<p align="center"><img src="Images/Leading Themes.jpeg" width="700"></p>
  
 ### b) Market Cycle Indicator
  
@@ -66,7 +66,8 @@ After the DeepVue tutorials, I applied the concepts directly to two real, curren
 - **Support** — identifying the price zone below current price where buyers have historically stepped in.
 - **Resistance** — identifying the price zone above current price where sellers have historically stepped in.
 - **Volume Analysis** — checking whether the recent price move was backed by genuinely high volume, or just drifting up on light, unconvincing volume.
-> 🖼️ **[Add Image Here — HPE CHART]** — A screenshot of the actual HPE chart from today's TradingView/DeepVue session, ideally with the support, resistance, and breakout point marked. Suggested file: `images/day2/hpe-chart-analysis.png`
+<p align="center"><img src="Images/HPE.jpeg" width="700"></p>
+
  
 ### DELL Chart Analysis
  
@@ -79,7 +80,8 @@ After the DeepVue tutorials, I applied the concepts directly to two real, curren
  
 - **Trend, Support, Resistance, and Volume Analysis** — same four-part process as HPE, applied consistently so that any stock can be assessed using the same repeatable method.
 - **Moving Average Observation** — this was the one additional concept introduced specifically during the DELL analysis. A moving average smooths out short-term price noise by averaging price over a set number of past periods (e.g., the last 20 days), making the underlying trend direction easier to see at a glance. If price is consistently staying above its moving average, that's generally read as a sign of underlying strength.
-> 🖼️ **[Add Image Here — DELL CHART]** — A screenshot of the actual DELL chart from today's session, ideally showing the moving average line overlaid on price. Suggested file: `images/day2/dell-chart-analysis.png`
+<p align="center"><img src="Images/DELL.jpeg" width="700"></p>
+
  
 ---
  
