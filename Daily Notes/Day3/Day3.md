@@ -22,6 +22,7 @@ Candlestick patterns are visual representations of price action that help trader
 As a quick refresher tying back to Day 1: **green candles generally indicate buyer strength** (close finished higher than open), while **red candles represent seller dominance** (close finished lower than open). **Large candles indicate strong momentum** — a big, decisive move in one direction — whereas **long wicks show rejection** of a particular price level, meaning price tried to go further but was pushed back.
  
 > <p align="center"><img src="Images/Candlestick Patterns cheat sheet.jpeg" width="700"></p>
+---
 > <p align="center"><img src="Images/All candlestick patterns.jpg" width="700"></p>
  
 ## Bullish Reversal Patterns
