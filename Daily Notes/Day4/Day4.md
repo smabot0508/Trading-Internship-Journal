@@ -92,7 +92,8 @@ RSI **below 30** suggests a stock may be oversold — meaning price has fallen q
 ### Important Note
 RSI should **not** be used alone. It works best when combined with trend analysis, support and resistance, and volume confirmation — using any single indicator in isolation is a common mistake for beginner traders.
  
-> 🖼️ **[Add Image Here — RSI INDICATOR]** — Both charts work well here, but TSLA (Image 1) is the cleaner teaching example: RSI is at 53.57 with a signal line at 57.43 — both comfortably in the neutral 40-60 zone, neither overbought nor oversold, which matches the chart's current sideways/consolidating price action after the strong May rally. Suggested file: `images/day4/tsla-rsi-indicator.png`
+> <p align="center"><img src="Images/RSI.jpeg" width="700"></p>
+
  
 ---
  
