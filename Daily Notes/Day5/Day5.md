@@ -49,7 +49,7 @@ A breakout occurs when price moves decisively beyond a previously established su
 **Breakout Retests:** After a genuine breakout, price frequently revisits ("retests") the breakout level before continuing in the direction of the new trend. This connects directly to the **Role Reversal Principle** from Day 3 — once resistance is broken, that same level often becomes new support, and the retest is simply price coming back down to confirm that the old resistance is now holding as support, before continuing upward.
  
 
-> <p align="center"><img src="Images/Support Resistance.jpeg" width="700"></p>
+> <p align="center"><img src="Images/Support Resistance.png" width="700"></p>
 
 ---
  
