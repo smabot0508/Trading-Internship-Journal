@@ -33,8 +33,8 @@ A Moving Average is a calculation that smooths out price fluctuations by averagi
 **Moving Averages as Dynamic Support and Resistance:** Unlike a fixed horizontal support/resistance line, a moving average level *changes* every day as new price data is added — which is why it's called "dynamic." During strong uptrends, price often pulls back toward a moving average and finds support there, with buyers stepping in around that average before price continues higher. During downtrends, the same moving average can flip to act as resistance, with price rallying up to it and getting rejected.
  
 **Moving Average Alignment:** A particularly important concept is checking whether shorter-term moving averages are sitting *above* longer-term moving averages (e.g., 50-day above 150-day above 200-day). When they're stacked in this order, it indicates a healthy, well-established bullish trend — each timeframe of buyers is in agreement, not contradicting each other. If the averages are tangled together or inverted (shorter below longer), it usually signals a choppy, uncertain, or bearish phase instead.
- 
-> 🖼️ **[Add Image Here — MOVING AVERAGE]** — Use the Moving Average screenshot (Image 2). It shows NVDA's "DV – Key Moving Averages" plotted directly on price (reading 214.30 / 214.20 / 204.19), clearly visualizing how price interacts with multiple moving average lines as dynamic support during the rally. Suggested file: `images/day5/nvda-moving-average.png`
+
+> <p align="center"><img src="Images/Moving Average.jpeg" width="700"></p>
  
 ---
  
@@ -48,8 +48,9 @@ A breakout occurs when price moves decisively beyond a previously established su
  
 **Breakout Retests:** After a genuine breakout, price frequently revisits ("retests") the breakout level before continuing in the direction of the new trend. This connects directly to the **Role Reversal Principle** from Day 3 — once resistance is broken, that same level often becomes new support, and the retest is simply price coming back down to confirm that the old resistance is now holding as support, before continuing upward.
  
-> 🖼️ **[Add Image Here — SUPPORT AND RESISTANCE BREAKOUTS]** — Use the Support/Resistance diagram (Image 3). This diagram is an excellent visual of exactly the Role Reversal Principle described above: the first resistance level (green line) is broken through, and on the next leg up, that same price level holds as the new support — precisely illustrating how a breakout level can flip roles. Suggested file: `images/day5/support-resistance-role-reversal.png`
- 
+
+> <p align="center"><img src="Images/Support Resistance.jpeg" width="700"></p>
+
 ---
  
 ### Liquidity Introduction
@@ -78,7 +79,8 @@ I explored the WatchList feature in DeepVue and learned how it helps traders org
  
 This feature helps traders efficiently monitor multiple stocks, compare performance side by side, and quickly access important charts without repeatedly searching for them. Organized watchlists improve workflow efficiency and support a more disciplined, structured trading process overall.
  
-> 🖼️ **[Add Image Here — DEEPVUE WATCHLIST SECTION]** — Use the Watchlist screenshot (Image 1). It clearly shows the "Day5 Screen" watchlist organized into the exact categories described below — Market Indexes and Gauges, Leaders, Wide List, and Ready List — alongside the live NVDA chart and the Stan Weinstein company info panel. Suggested file: `images/day5/deepvue-watchlist-day5-screen.png`
+> <p align="center"><img src="Images/Watchlist.jpeg" width="700"></p>
+
  
 ---
  
@@ -109,6 +111,8 @@ Current price (218.66) sits **above all three**, and the averages themselves are
 **Second chart view (Image 2):** A separate NVDA session shows Open 210.18, High 210.47, Low 206.00, Close 208.64, Volume 138.4M, Change +3.54 (+1.73%), with "DV – Key Moving Averages" reading 214.30 / 214.20 / 204.19, plotted directly as overlapping lines on the price chart. This view also includes a **Relative Measured Volatility (RMV)** indicator at the bottom, which oscillates between low and high volatility bands — a useful additional tool for gauging how "stretched" or calm a stock's recent price swings have been, separate from RSI's momentum reading.
  
 **Overall read:** NVDA's WatchList data on Day 5 reinforces several concepts learned across the week — bullish moving average alignment (Day 5), neutral-to-healthy RSI (Day 4), and a stock sitting in what would likely be classified as **Stage 2 (Uptrend)** under the Stan Weinstein Stage Analysis framework from Day 4, given the consistent higher price action above all major moving averages.
+> <p align="center"><img src="Images/Watchlist.jpeg" width="700"></p>
+
  
 This practice demonstrated the importance of maintaining an organized stock-tracking system and showed how professional traders efficiently manage their research workflow by combining watchlists, moving averages, RSI, and company fundamentals in a single view rather than checking each separately.
  
