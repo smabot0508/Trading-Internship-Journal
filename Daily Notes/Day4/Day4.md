@@ -70,7 +70,7 @@ When a stock breaks a support or resistance level **with high volume**, the brea
 - **Falling price + rising volume** = strong selling pressure (a genuinely bearish, high-conviction move down).
 - **Rising price + low volume** = possible weakness (the move may not be trustworthy, since not enough participants are backing it).
  
-> <p align="center"><img src="Images/nvda(2).jpeg" width="700"></p>
+> <p align="center"><img src="Images/nvda (2).jpeg" width="700"></p>
 
 ---
  
