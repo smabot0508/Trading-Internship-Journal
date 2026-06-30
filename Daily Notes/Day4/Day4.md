@@ -72,6 +72,7 @@ When a stock breaks a support or resistance level **with high volume**, the brea
  
 > <p align="center"><img src="Images/nvda (2).jpeg" width="700"></p>
 
+
 ---
  
 ## 3. RSI Indicator (Relative Strength Index)
@@ -116,9 +117,9 @@ Today I learned how DeepVue can be used to screen stocks based on **Stan Weinste
  
 Stage Analysis is a method used to classify any stock based on where it currently sits in its repeating market cycle. Every stock — no matter the company — tends to cycle through these four stages over time, rather than trending in one direction forever.
 
-> <p align="center"><img src="Images/stage-analysis-4-stages.jpeg" width="700"></p>
+> <p align="center"><img src="Images/stage-analysis-4-stages.jpeg" width="700" height="400"></p>
 ---
-> <p align="center"><img src="Images/stage-analysis-4-stage.jpeg" width="700"></p>
+> <p align="center"><img src="Images/stage-analysis-4-stage.jpeg" width="700" height="400"></p>
 
 
  
