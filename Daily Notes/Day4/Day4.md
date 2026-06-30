@@ -164,7 +164,7 @@ The primary goal of Stage Analysis is to identify **Stage 2 stocks**, because th
 **RSI Observation:** RSI(14) currently reads **53.57**, with its signal line at **57.43**. Both values sit comfortably in the neutral zone (well below the 70 overbought threshold), which lines up with the chart's current sideways behavior — there's no momentum extreme in either direction right now, suggesting the stock is taking a breather after its May rally rather than showing exhaustion or an imminent reversal.
  
 **Overall read:** TSLA is currently range-bound between 402.84 support and 444.72 resistance, after recovering from a downtrend into a strong uptrend. A decisive, high-volume close above 444.72 would be the signal to watch for renewed upside continuation; a high-volume break below 402.84 would suggest the recent uptrend is at risk.
-> <p align="center"><img src="nvda (2).jpeg" width="700"></p>
+> <p align="center"><img src="nvda (2) .jpeg" width="700"></p>
 
  
 ## NVDA — Chart Analysis
@@ -181,7 +181,7 @@ The primary goal of Stage Analysis is to identify **Stage 2 stocks**, because th
 **RSI Observation:** RSI(14) reads **51.14**, with its signal line at **58.07**. Both remain in neutral territory (nowhere near oversold below 30), which is worth noting — despite today's sharp red candle, RSI hasn't dropped into oversold territory, meaning there's room for further downside before RSI itself would flag the stock as statistically "stretched" to the downside.
  
 **Overall read:** NVDA's bounce attempt off the higher-low trendline failed today on a high-volume rejection candle. Given RSI is still neutral rather than oversold, this looks like genuine renewed selling pressure rather than an overextended, exhausted move — worth watching whether the trendline support holds on the next test.
-> <p align="center"><img src="tsla (2).jpeg" width="700"></p>
+> <p align="center"><img src="tsla (2) .jpeg" width="700"></p>
 
 ---
  
