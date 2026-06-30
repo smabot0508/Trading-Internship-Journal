@@ -40,7 +40,7 @@ This indicates strong seller control and negative market sentiment.
 **Sideways Trend**
 A sideways trend occurs when price moves within a horizontal range without making significant new higher highs or lower lows. Neither buyers nor sellers have gained a decisive advantage — price is essentially "waiting" for new information or a catalyst before committing to a direction.
  
-> 🖼️ **[Add Image Here — TREND DIRECTION]** — Use the TSLA chart (Image 1) here. It's an excellent real example: a clear downtrend into mid-April (lower highs/lower lows), followed by a sharp reversal into a strong uptrend (higher highs/higher lows) through May, visually marked by the diagonal trendline drawn on the chart. Suggested file: `images/day4/tsla-trend-direction.png`
+> <p align="center"><img src="Images/Trends.jpeg" width="700"></p>
  
 ### Why Trend Direction Matters
  
