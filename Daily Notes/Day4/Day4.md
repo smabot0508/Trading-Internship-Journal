@@ -69,8 +69,9 @@ When a stock breaks a support or resistance level **with high volume**, the brea
 - **Rising price + rising volume** = strength (healthy, well-supported move).
 - **Falling price + rising volume** = strong selling pressure (a genuinely bearish, high-conviction move down).
 - **Rising price + low volume** = possible weakness (the move may not be trustworthy, since not enough participants are backing it).
-> 🖼️ **[Add Image Here — VOLUME ANALYSIS]** — Use the NVDA chart (Image 2) here. The volume panel at the bottom shows today's red candle accompanied by 160.91M in volume — visibly larger than several of the recent bars, which is a textbook example of "falling price + rising volume = strong selling pressure." Suggested file: `images/day4/nvda-volume-analysis.png`
  
+> <p align="center"><img src="Images/nvda(2).jpeg" width="700"></p>
+
 ---
  
 ## 3. RSI Indicator (Relative Strength Index)
