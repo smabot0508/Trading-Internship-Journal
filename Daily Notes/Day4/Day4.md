@@ -40,7 +40,7 @@ This indicates strong seller control and negative market sentiment.
 **Sideways Trend**
 A sideways trend occurs when price moves within a horizontal range without making significant new higher highs or lower lows. Neither buyers nor sellers have gained a decisive advantage — price is essentially "waiting" for new information or a catalyst before committing to a direction.
  
-<p align="center"><img src="Images/Trends.jpeg" width="500" height="300"></p>
+<p align="center"><img src="Images/Trends.jpeg" width="600" height="400"></p>
  
 ### Why Trend Direction Matters
  
