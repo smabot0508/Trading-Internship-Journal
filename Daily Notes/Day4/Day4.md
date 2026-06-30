@@ -92,7 +92,7 @@ RSI **below 30** suggests a stock may be oversold — meaning price has fallen q
 ### Important Note
 RSI should **not** be used alone. It works best when combined with trend analysis, support and resistance, and volume confirmation — using any single indicator in isolation is a common mistake for beginner traders.
  
-> <p align="center"><img src="Images/RSI.jpeg" width="700"></p>
+> <p align="center"><img src="Images/RSI .jpeg" width="700"></p>
 
  
 ---
@@ -115,8 +115,12 @@ Today I learned how DeepVue can be used to screen stocks based on **Stan Weinste
 ## 5. DeepVue Tutorial: Stage Analysis (In Detail)
  
 Stage Analysis is a method used to classify any stock based on where it currently sits in its repeating market cycle. Every stock — no matter the company — tends to cycle through these four stages over time, rather than trending in one direction forever.
- 
-> 🖼️ **[Add Image Here — STAGE ANALYSIS, ALL 4 STAGES]** — A single labeled diagram showing the full Stage 1 → 2 → 3 → 4 cycle on one continuous price chart (the classic Weinstein-style diagram with the 30-week moving average overlaid) gives the clearest visual for all four stages at once. Suggested file: `images/day4/stage-analysis-4-stages.png`
+
+> <p align="center"><img src="Images/stage-analysis-4-stages.jpeg" width="700"></p>
+---
+> <p align="center"><img src="Images/stage-analysis-4-stage.jpeg" width="700"></p>
+
+
  
 ### Stage 1 — Accumulation
 - The stock moves **sideways**, often after a prior decline.
@@ -160,6 +164,8 @@ The primary goal of Stage Analysis is to identify **Stage 2 stocks**, because th
 **RSI Observation:** RSI(14) currently reads **53.57**, with its signal line at **57.43**. Both values sit comfortably in the neutral zone (well below the 70 overbought threshold), which lines up with the chart's current sideways behavior — there's no momentum extreme in either direction right now, suggesting the stock is taking a breather after its May rally rather than showing exhaustion or an imminent reversal.
  
 **Overall read:** TSLA is currently range-bound between 402.84 support and 444.72 resistance, after recovering from a downtrend into a strong uptrend. A decisive, high-volume close above 444.72 would be the signal to watch for renewed upside continuation; a high-volume break below 402.84 would suggest the recent uptrend is at risk.
+> <p align="center"><img src="nvda (2).jpeg" width="700"></p>
+
  
 ## NVDA — Chart Analysis
  
@@ -175,7 +181,8 @@ The primary goal of Stage Analysis is to identify **Stage 2 stocks**, because th
 **RSI Observation:** RSI(14) reads **51.14**, with its signal line at **58.07**. Both remain in neutral territory (nowhere near oversold below 30), which is worth noting — despite today's sharp red candle, RSI hasn't dropped into oversold territory, meaning there's room for further downside before RSI itself would flag the stock as statistically "stretched" to the downside.
  
 **Overall read:** NVDA's bounce attempt off the higher-low trendline failed today on a high-volume rejection candle. Given RSI is still neutral rather than oversold, this looks like genuine renewed selling pressure rather than an overextended, exhausted move — worth watching whether the trendline support holds on the next test.
- 
+> <p align="center"><img src="tsla (2).jpeg" width="700"></p>
+
 ---
  
 # Questions I Had
