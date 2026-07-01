@@ -23,7 +23,7 @@ Today I learned how stock transactions actually occur in the market through the 
 
 Whenever a stock is traded, there is always a buyer and a seller. The interaction between these participants determines the current market price. This interaction happens continuously inside something called the **order book** — a live list of every buy order (bids) and sell order (asks) waiting to be matched.
 
-<p align="center"><img src="Images\Bid-Ask-spread.png" width="400" heigth="300"></p>
+<p align="center"><img src="Images\Bid-Ask-spread.png" width="700" heigth="300"></p>
 
 ## Bid Price
 
