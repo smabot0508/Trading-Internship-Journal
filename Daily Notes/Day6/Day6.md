@@ -131,7 +131,7 @@ Liquidity is usually judged by three things together:
 
 A highly liquid stock allows traders to enter and exit positions quickly while maintaining stable prices.
 
-<p align="center"><img src="Images\Liquidity concept.jpeg" width="400" heigth="300"></p>
+<p align="center"><img src="Images\Liquidity concept.jpeg" width="700" heigth="300"></p>
 
 
 
@@ -179,7 +179,7 @@ The DeepVue Market Navigator Indicator is designed to provide objective buy and 
 
 The chart below is the NVDA daily chart with the Market Navigator indicator applied — the green triangles mark buy signals and the red triangles mark sell signals, plotted alongside the 50, 150, and 200 Simple Moving Averages.
 
-<p align="center"><img src="Images\Market Navigator Indicator.jpeg" width="400" heigth="300"></p>
+<p align="center"><img src="Images\Market Navigator Indicator.jpeg" width="700" heigth="300"></p>
 
 
 
