@@ -23,7 +23,7 @@ Today I learned how stock transactions actually occur in the market through the 
 
 Whenever a stock is traded, there is always a buyer and a seller. The interaction between these participants determines the current market price. This interaction happens continuously inside something called the **order book** — a live list of every buy order (bids) and sell order (asks) waiting to be matched.
 
-<p align="center"><img src="Bid-Ask-spread.png" width="400" heigth="300"></p>
+<p align="center"><img src="Images\Bid-Ask-spread.png" width="400" heigth="300"></p>
 
 ## Bid Price
 
@@ -131,8 +131,8 @@ Liquidity is usually judged by three things together:
 
 A highly liquid stock allows traders to enter and exit positions quickly while maintaining stable prices.
 
+<p align="center"><img src="Images\Liquidity concept.jpeg" width="400" heigth="300"></p>
 
-<p align="center"><img src="Liquidity concept.jpeg" width="400" heigth="300"></p>
 
 
 ---
@@ -179,7 +179,8 @@ The DeepVue Market Navigator Indicator is designed to provide objective buy and 
 
 The chart below is the NVDA daily chart with the Market Navigator indicator applied — the green triangles mark buy signals and the red triangles mark sell signals, plotted alongside the 50, 150, and 200 Simple Moving Averages.
 
-<p align="center"><img src="Market Navigator Indicator.jpeg" width="400" heigth="300"></p>
+<p align="center"><img src="Images\Market Navigator Indicator.jpeg" width="400" heigth="300"></p>
+
 
 
 The indicator includes multiple buy and sell setups based on:
