@@ -338,11 +338,6 @@ By combining market mechanics with technical analysis, traders can make more inf
 
 ---
 
-# Resource Provided
-
-- Market Navigator Indicator screenshot (NVDA daily chart, provided by mentor) — embedded above.
-
----
 
 # Conclusion
 
