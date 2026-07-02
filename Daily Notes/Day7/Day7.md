@@ -10,7 +10,7 @@
  
 # Today's Objective
  
-- Liquidity — deepening the understanding from Days 5 and 6.
+- Liquidity — deepening the understanding 
 - DeepVue Bubble Chart — what it is and how it works.
 - Finding Breakouts — using the Bubble Chart to identify opportunities fast.
 - DeepVue Bubble Charts: Find Breakouts and Market Leaders FAST.
@@ -26,7 +26,8 @@ Liquidity was first introduced on Day 5 and expanded on Day 6 through the Bid-As
  
 **Liquidity** refers to how easily a stock can be bought or sold without significantly affecting its market price. The more buyers and sellers actively present in a stock at any given moment, the more liquid it is.
  
-> 🖼️ **[Add Image Here — LIQUIDITY]** — A comparison table or diagram showing "High Liquidity" vs "Low Liquidity" characteristics side by side reinforces this concept clearly. Alternatively, a real order book screenshot showing the difference in depth between a liquid stock (NVDA) and an illiquid one makes it very concrete. Suggested file: `images/day7/liquidity-comparison.png`
+> <p align="center"><img src="Images/HighLow Liquidity.jpeg" width="500" heigth="300"></p>
+
  
 ## Why Liquidity Matters
  
