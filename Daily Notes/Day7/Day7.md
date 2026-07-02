@@ -51,6 +51,9 @@ Liquidity directly affects every single aspect of trade execution:
 ## Institutional Perspective
  
 Large institutions need to buy or sell enormous quantities of shares — sometimes millions at once. In a low-liquidity stock, placing that order would push the price dramatically against them before they even finished filling. This is why institutional money flows into liquid stocks — it is the only environment where they can operate efficiently without their own orders working against them. Understanding this is what underpins the Smart Money and Order Block concepts that come much later in this internship (see Days 14–19).
+
+> <p align="center"><img src="Images/liquidity_comparison.jpeg" width="500" heigth="300"></p>
+
  
 ## Real-Time Trading Example
  
