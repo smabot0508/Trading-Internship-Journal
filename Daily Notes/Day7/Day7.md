@@ -70,8 +70,9 @@ The order may fill slowly, partially, or at a price worse than expected, because
 The **DeepVue Bubble Chart** is a real-time market visualization tool that helps traders identify breakout stocks, strong sectors, and potential market leaders — not by scrolling through a list, but by plotting every stock simultaneously across three visual dimensions at once.
  
 Instead of numbers in a table, each stock becomes a **bubble on a scatter plot**, and the bubble's position and size immediately tells you three things about that stock in one glance.
- 
-> 🖼️ **[Add Image Here — DEEPVUE BUBBLE CHART]** — Use the provided Bubble Chart screenshot (left panel of the Day 7 image). It shows the "Liquid Leaders" view with X-axis = "Relative Measured Volatility – 15 Days" and Y-axis = "Relative Volume – 20 Day," with GLXY clearly visible as the largest bubble in the top-right corner at approximately x=80-100, y=4.2. Suggested file: `images/day7/deepvue-bubble-chart.png`
+
+> <p align="center"><img src="Images/bubble chart.jpeg" width="500" heigth="300"></p>
+
  
 ## How the Bubble Chart Works
  
@@ -160,7 +161,8 @@ Price (29.52) is currently **above all three moving averages**, and the 15-minut
  
 **RMV (Relative Measured Volatility):** 12.16 — the RMV panel at the bottom of the GLXY chart shows a spike relative to its recent quiet periods, confirming today's move is a genuine expansion of volatility, not just noise within a normal trading range.
  
-> 🖼️ **[Add Image Here — GLXY CHART / FINDING BREAKOUTS]** — Use the right panel of the Day 7 screenshot showing the GLXY 15-minute chart with the Moving Averages (SMA 50=26.35, SMA 150=28.28, SMA 200=28.59), RSI at 79.15, and the RMV indicator. Suggested file: `images/day7/glxy-breakout-chart.png`
+> <p align="center"><img src="Images/bubble chart.jpeg" width="500" heigth="300"></p>
+
  
 **Overall read on GLXY:** A stock that appears at the top-right extreme of the Bubble Chart AND confirms that position with price above all major moving averages and above-average volume is showing textbook breakout behavior. The overbought RSI is worth noting for entry timing, but doesn't negate the quality of the setup — it simply informs position sizing and entry management.
  
