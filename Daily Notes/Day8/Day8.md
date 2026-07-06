@@ -36,9 +36,7 @@ Large institutions (banks, hedge funds, market makers) need to fill very large p
 
 This is why a liquidity sweep is often followed by a strong, fast move in the *opposite* direction of the initial breakout.
 
-**Diagram — Liquidity Sweep:**
-
-![Diagram of a liquidity sweep: price forms equal highs, sweeps the liquidity pool above resistance, then reverses sharply lower](day8-liquidity-sweep-diagram.svg)
+<p align="center"><img src="Images/Liquidity Sweep.jpeg" width="600" height="400"></p>
 
 *Price builds equal highs, tagging the same resistance twice. A final push spikes into the liquidity pool sitting just above that level (triggering the resting buy-stops/sell-limit orders), then reverses hard once those orders are filled.*
 
@@ -89,13 +87,12 @@ When all four of these conditions line up, it gives multiple layers of confirmat
 
 **Diagram — Combining Liquidity Sweep with Market Imbalance (FVG):**
 
-![Diagram combining a liquidity sweep with a Fair Value Gap: support liquidity is swept, an impulsive Break of Structure creates an FVG, price retraces into the FVG, then continues toward the target](day8-liquidity-sweep-fvg-combo-diagram.svg)
+<p align="center"><img src="Images/Liquidity Sweep and FVG.jpeg" width="600" height="400"></p>
 
 *Price sweeps the liquidity pool resting below equal lows, then reverses with an impulsive candle that both breaks structure and leaves behind an FVG. Price later retraces into that FVG (a lower-risk confirmation entry) before continuing on toward the target.*
 
-**Chart Example — FVG / Market Imbalance on SPX:**
+<p align="center"><img src="Images/FVG.jpeg" width="600" height="400"></p>
 
-![FVG and Market Imbalance example on SPX 5-minute chart, showing Break of Structure, the FVG zone, and Support level](day8-fvg-market-imbalance.png)
 
 *In the chart above, a Break of Structure occurs first, immediately followed by a large aggressive candle that creates the FVG (purple box). Price later returns to test this FVG, which also lines up with a horizontal Support level — exactly the kind of confluence described in the checklist above.*
 
@@ -143,6 +140,8 @@ By displaying key moving averages such as the **21 EMA, 50 SMA, 150 SMA, and 200
 **Chart Example — DeepVue Moving Averages on NVDA (Daily):**
 
 ![DeepVue Key Moving Averages indicator applied to NVDA daily chart, alongside a Relative Measured Volatility indicator used to spot liquidity sweep conditions](day8-deepvue-liquidity-sweep.png)
+<p align="center"><img src="Images/DV MA.jpeg" width="600" height="400"></p>
+
 
 *This NVDA daily chart shows the DeepVue Key Moving Averages (21 EMA, 50 SMA, 200 SMA lines) plotted together with the Relative Measured Volatility (RMV) indicator below. Sharp spikes in RMV often line up with the volatility bursts that occur during a liquidity sweep, making it a useful secondary confirmation tool when combined with the moving averages and FVG concepts above.*
 
