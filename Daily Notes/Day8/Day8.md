@@ -139,7 +139,6 @@ By displaying key moving averages such as the **21 EMA, 50 SMA, 150 SMA, and 200
 
 **Chart Example — DeepVue Moving Averages on NVDA (Daily):**
 
-![DeepVue Key Moving Averages indicator applied to NVDA daily chart, alongside a Relative Measured Volatility indicator used to spot liquidity sweep conditions](day8-deepvue-liquidity-sweep.png)
 <p align="center"><img src="Images/DV MA.jpeg" width="600" height="400"></p>
 
 
