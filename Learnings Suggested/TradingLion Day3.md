@@ -1,4 +1,4 @@
-# TraderLion Masterclass — Weekend Learning Notes (Session 2)
+# TraderLion Masterclass — Weekend Learning Notes 
 
 **Source:** TraderLion YouTube Live — [https://www.youtube.com/watch?v=TeXGguiN578](https://www.youtube.com/watch?v=TeXGguiN578)
 **Date Watched:** Sunday, 19-07-2026 (weekend assignment)
